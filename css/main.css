@@ -1,12 +1,17 @@
+body {
+	background: #222;
+}
 table {
-	width: 560px;
+	margin-top: -10px;
+	margin-left: -10px;
+	width: 570px;
 	height: 545px;
 	border-collapse: collapse;
 	border-spacing: 0;
-	margin: 20px auto;
+	
 }
 td {
-	border: 9px solid #12201B;
+	border: 9px solid #0E1B15;
 	/*height: 20px;*/
 }
 .r1 {
@@ -25,3 +30,10 @@ td {
 	height: 38px;
 }
 
+.cut {
+	background: #FFF;
+	margin: 200px auto;
+	width: 550px;
+	height: 540px;
+	overflow: hidden;
+}
