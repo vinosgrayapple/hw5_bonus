@@ -1,0 +1,25 @@
+table {
+	width: 500px;
+	height: 541px;
+	/*border: 4px solid tranparent;*/
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0 auto;
+	text-align: center;
+}
+td {
+	border: 10px solid #12201B;
+	height: 20px;
+}
+.r1 {
+	height: 50px;
+}
+.r2, .r3 {
+	height: 130px;
+}
+.r4, .r5 {
+	height: 60px;
+}
+.r6, .r7 {
+	height: 30px;
+}
