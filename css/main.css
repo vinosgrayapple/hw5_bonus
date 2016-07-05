@@ -1,25 +1,27 @@
 table {
-	width: 500px;
-	height: 541px;
-	/*border: 4px solid tranparent;*/
+	width: 560px;
+	height: 545px;
 	border-collapse: collapse;
 	border-spacing: 0;
-	margin: 0 auto;
-	text-align: center;
+	margin: 20px auto;
 }
 td {
-	border: 10px solid #12201B;
-	height: 20px;
+	border: 9px solid #12201B;
+	/*height: 20px;*/
 }
 .r1 {
-	height: 50px;
+	height: 55px;
 }
 .r2, .r3 {
-	height: 130px;
+	height: 135px;
 }
-.r4, .r5 {
-	height: 60px;
+.r4 {
+	height: 75px;
+}
+.r5 {
+	height: 65px;
 }
 .r6, .r7 {
-	height: 30px;
+	height: 38px;
 }
+
